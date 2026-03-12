@@ -1,6 +1,6 @@
 # Duck
 
-![Image](documentation/image1.png)
+![Image](documentation/image0.png)
 
 Duck is a waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait.
 
