@@ -1,8 +1,8 @@
 # Duck
 
-![Image](documentation/image0.png)
+Notdef glyph is a special character that indicates that the current font does not contain a visual representation (glyph) for the character that should have been displayed. In other words, the Unicode code point has no associated graphical representation.
 
-Duck is a waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait.
+![Image](documentation/image0.png)
 
 ## Variable Font Axe
 
